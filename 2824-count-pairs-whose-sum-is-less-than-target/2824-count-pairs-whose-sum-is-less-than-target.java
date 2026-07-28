@@ -7,7 +7,7 @@ class Solution {
         while(i<j){
             int sum = nums.get(i) + nums.get(j);
             if(sum < target){
-                count =count + (j-i);
+                count =count +(j-i);
                 i = i+1;
             }else{
                 j = j - 1;
