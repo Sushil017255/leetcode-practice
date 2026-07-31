@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sushil017255/leetcode-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sushil017255/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Sushil017255/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushil017255/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Sushil017255/leetcode-practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sushil017255/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sushil017255/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Sushil017255/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sushil017255/leetcode-practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sushil017255/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sushil017255/leetcode-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
