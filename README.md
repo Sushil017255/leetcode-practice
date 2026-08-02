@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sushil017255/leetcode-practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Sushil017255/leetcode-practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sushil017255/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Sushil017255/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sushil017255/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sushil017255/leetcode-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sushil017255/leetcode-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sushil017255/leetcode-practice/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Sushil017255/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
