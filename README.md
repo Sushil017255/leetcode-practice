@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sushil017255/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushil017255/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sushil017255/leetcode-practice/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Sushil017255/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sushil017255/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sushil017255/leetcode-practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sushil017255/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
@@ -70,9 +71,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sushil017255/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sushil017255/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Sushil017255/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sushil017255/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sushil017255/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sushil017255/leetcode-practice/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sushil017255/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
