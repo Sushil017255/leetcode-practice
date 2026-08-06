@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sushil017255/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Sushil017255/leetcode-practice/tree/master/0457-circular-array-loop) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sushil017255/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sushil017255/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sushil017255/leetcode-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sushil017255/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Sushil017255/leetcode-practice/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/Sushil017255/leetcode-practice/tree/master/0457-circular-array-loop) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sushil017255/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/Sushil017255/leetcode-practice/tree/master/0457-circular-array-loop) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sushil017255/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
