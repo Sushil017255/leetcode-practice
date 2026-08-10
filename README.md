@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sushil017255/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sushil017255/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Sushil017255/leetcode-practice/tree/master/0457-circular-array-loop) |
+| [0643-maximum-average-subarray-i](https://github.com/Sushil017255/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sushil017255/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sushil017255/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sushil017255/leetcode-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sushil017255/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sushil017255/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Sushil017255/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sushil017255/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
