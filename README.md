@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sushil017255/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sushil017255/leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
